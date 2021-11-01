@@ -18,10 +18,10 @@ export const ProjectList = [
     demo_url: "https://lernantino.github.io/run-buddy/",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/portfolio-screenshot.png",
     title: "Portfolio",
     description: "My own portfolio",
-    tech_stack: "Reactjs, Css",
+    tech_stack: "HTML, CSS, ReactJS",
     github_url: "https://github.com/timanlemvo/react-tee-portfolio",
     demo_url: "https://react-tee-portfolio.netlify.app/",
   }/*,

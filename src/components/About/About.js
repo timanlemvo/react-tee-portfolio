@@ -19,14 +19,10 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Gurushesh Pawar</strong> and I enjoy
-            creating things that live on the internet. My interest in web
-            development started back in 2014 when I decided to try editing
-            custom Blogger themes — redesigning & modifying blogger themes
-            taught me a lot about HTML & CSS!
+          Hello! My name is <strong>Tima Nlemvo</strong>. I enjoy creating and designing front-ends. I have recently completed a six-month Full Stack boot camp, which instilled the foundation of the MERN Stack. I have always had a strong interest in web development and its now my time to shine!
           </div>
           <div className="AboutBio tagline2">
-            I have become confident using the following technologies.
+            I have comprehensive knowledge using the following technologies.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (

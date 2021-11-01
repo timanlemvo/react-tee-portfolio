@@ -22,7 +22,7 @@ export const CardLeft = styled.div`
 
   img {
     border-radius: 3px;
-    height: auto;
+    height: 100%;
   }
 `;
 
