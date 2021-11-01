@@ -20,11 +20,12 @@ export const ProjectList = [
   {
     img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
     title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
+    description: "My own portfolio",
     tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/portfolio-react",
-    demo_url: "https://gportfolio.vercel.app/",
-  },
+    github_url: "https://github.com/timanlemvo/react-tee-portfolio",
+    demo_url: "https://react-tee-portfolio.netlify.app/",
+  }/*,
+  
   {
     img: "https://gurupawar.github.io/portfolio/assets/project_3.png",
     title: "Ecommerce website",
@@ -34,6 +35,7 @@ export const ProjectList = [
     github_url: "https://github.com/gurupawar/ecommerce-react-app",
     demo_url: "https://ecommerce-react-app.vercel.app/",
   },
+  */
 ];
 
 // --------------------------------------- Skills
