@@ -15,7 +15,7 @@ export const ProjectList = [
       "A single page web site that offers fitness training services.",
     tech_stack: "HTML & CSS",
     github_url: "https://github.com/timanlemvo/run-buddy",
-    demo_url: "https://lernantino.github.io/run-buddy/",
+    demo_url: "https://timanlemvo.github.io/run-buddy/",
   },
   {
     img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/portfolio-screenshot.png",
