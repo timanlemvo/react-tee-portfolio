@@ -15,7 +15,7 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="./Assets/logo.png"
+            src="https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/NewMemoji.png"
             alt="man-svgrepo"
           />
           <div className="AboutBio">

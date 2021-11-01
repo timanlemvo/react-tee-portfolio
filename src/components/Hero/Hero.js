@@ -31,7 +31,7 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://www.flickr.com/photos/194320651@N06/shares/3k5P03"
+              src="https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/NewMemoji.png"
               alt="man-svgrepo"
             />
           </HeroRight>

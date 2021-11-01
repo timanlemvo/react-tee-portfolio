@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="./../src/Assets/logo.png"
+            src="https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/NewMemoji.png"
             alt="logo"
           />
         </Logo>
