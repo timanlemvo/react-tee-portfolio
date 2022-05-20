@@ -40,7 +40,7 @@ function Hero() {
           <ScrollLink>
             Scroll down
             <img
-              src="https://github.com/timanlemvo/react-tee-portfolio/blob/eacc372de526d110c6754082f63f9411fd29554b/src/Assets/scroll.png"
+              src="https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/eacc372de526d110c6754082f63f9411fd29554b/src/Assets/scroll.png"
               alt="scroll-down"
             />
           </ScrollLink>
