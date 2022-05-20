@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/timanlemvo/"
+            href="https://github.com/timanlemvo/react-tee-portfolio/raw/main/src/Assets/web_dev.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
