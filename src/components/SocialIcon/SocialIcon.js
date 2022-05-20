@@ -55,7 +55,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://www.instagram.com/stangfreak"
+            href="https://www.instagram.com/teethe.dev"
             target="_blank"
             rel="noopener noreferrer"
           >

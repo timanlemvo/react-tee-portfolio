@@ -42,31 +42,32 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/html5.svg",
-    name: "HTML",
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/ReactJS.png",
+    name: "ReactJS",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/css3.svg",
-    name: "CSS",
-  },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/js.png",
     name: "JavaScript",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/bootstrap.svg",
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/html.png",
+    name: "HTML",
+  },
+  {
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/css.png",
+    name: "CSS",
+  },
+  {
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/bootstrap.png",
     name: "Bootstrap",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/sass.svg",
-    name: "Sass/Scss",
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/sass.png",
+    name: "Sass",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/git.svg",
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/git.png",
     name: "Git",
   },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/responsive.svg",
-    name: "Responsive",
-  },
+
 ];
