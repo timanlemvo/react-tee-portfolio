@@ -1,6 +1,15 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "https://raw.githubusercontent.com/timanlemvo/react-tee-portfolio/main/src/Assets/Expanding-Cards.png",
+    title: "Expanding Cards",
+    description:
+      "A creative page displaying simple image cards transitioning.",
+    tech_stack: "JavaScript,HTML, CSS",
+    github_url: "https://github.com/timanlemvo/expanding-cards",
+    demo_url: "https://timanlemvo.github.io/expanding-cards/",
+  },
+  {
     img: "https://raw.githubusercontent.com/timanlemvo/t-range-cal/main/src/assets/Preview.png",
     title: "Tesla's Battery Range Calculator",
     description: "Tesla's Battery Range Calculator built using React.JS, Redux and a few animations.",
@@ -24,18 +33,7 @@ export const ProjectList = [
     tech_stack: "ReactJS, JavaScript, HTML, CSS",
     github_url: "https://github.com/timanlemvo/react-tee-portfolio",
     demo_url: "https://react-tee-portfolio.netlify.app/",
-  }/*,
-  
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/project_3.png",
-    title: "Ecommerce website",
-    description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/ecommerce-react-app",
-    demo_url: "https://ecommerce-react-app.vercel.app/",
-  },
-  */
+  } 
 ];
 
 // --------------------------------------- Skills
